@@ -38,6 +38,9 @@
 ### Frontend
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
 
+### Collaboration & Productivity
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
+
 ---
 
 ## 🏅 Algorithms
